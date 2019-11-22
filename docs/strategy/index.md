@@ -20,7 +20,7 @@ ms.locfileid: "73240055"
 
 # <a name="develop-a-cloud-adoption-strategy"></a>Desarrollo de una estrategia de adopción de la nube
 
-La nube ofrece ventajas tecnológicas fundamentales que pueden ayudar a la empresa a ejecutar varias estrategias de negocios. El uso de enfoques basados en la nube puede mejorar la agilidad empresarial, reducir los costos, acelerar el tiempo de comercialización e, incluso, permitir la expansión a nuevos mercados. Para aprovechar este gran potencial, es importante empezar por el proceso de documentación de la estrategia de negocios, algo que se debe hacer de forma que sea comprensible para los técnicos de la nube y que resulte atractiva para las partes interesadas del negocio.
+La nube ofrece ventajas tecnológicas fundamentales que pueden ayudar a la empresa a ejecutar varias estrategias de negocios. El uso de enfoques basados en la nube puede mejorar la agilidad empresarial, reducir los costos, acelerar el tiempo de comercialización e incluso, permitir la expansión a nuevos mercados. Para aprovechar este gran potencial, es importante empezar por el proceso de documentación de la estrategia de negocios, algo que se debe hacer de forma que sea comprensible para los técnicos de la nube y que resulte atractiva para las partes interesadas del negocio.
 
 ## <a name="cloud-adoption-strategy-process"></a>Proceso de creación de la estrategia de adopción de la nube
 
